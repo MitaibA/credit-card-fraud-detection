@@ -1,0 +1,24 @@
+# Data (creditcard.csv is ~144 MB, exceeds GitHub's 100 MB limit)
+data/
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Outputs
+figures/
+models/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
